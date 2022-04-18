@@ -1,0 +1,6 @@
+{
+  "markdown-image.base.uploadMethod": "Local",
+  "markdown-image.local.path": "/images",
+  "markdown-image.base.fileNameFormat": "${YY}-${DD}-${HH}-${mm}-${ss}",
+  "workbench.iconTheme": "vscode-great-icons",
+}
