@@ -3,6 +3,6 @@
 
 git add .
 
-git commit -m $1 --no-verify
+git commit -m $(date +%Y%m%d%H%M%S) --no-verify
 
 git pull
