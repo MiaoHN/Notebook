@@ -1,5 +1,7 @@
-# Computer
+# 计算机
 
-# Content
+# 目录
 
-- [Database](./database/README.md)
+- [数据库](./数据库/README.md)
+- [嵌入式系统](./嵌入式系统/README.md)
+- [编译原理](./编译原理/README.md)
