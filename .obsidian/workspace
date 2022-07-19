@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b0f89e7b6ee07dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae4eafff9ad495ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "考研数学/有理分式积分法.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38ea88ed2962714e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3765b6b5310ef6d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e9f41bdbf645c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ac82c5a6cb3b053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3f43211786f50aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63dc7ac0f9333a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9049e08b468cfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研数学/有理分式积分法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ae4eafff9ad495ae",
+  "lastOpenFiles": [
+    "考研数学/有理分式积分法.md",
+    "computer/深入应用C++11/第6章.md",
+    "computer/深入应用C++11/第3章.md",
+    "computer/深入应用C++11/第2章.md",
+    "computer/嵌入式系统/复习.md",
+    "computer/嵌入式系统/第3章 ARM嵌入式处理器的指令系统.md",
+    "computer/嵌入式系统/第2章ARM嵌入式微处理器体系结构.md",
+    "computer/数据库/README.md",
+    "computer/README.md",
+    "README.md"
+  ]
+}
